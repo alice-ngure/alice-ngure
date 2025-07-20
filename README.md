@@ -7,7 +7,8 @@ I’m a self-driven and motivated individual  building strong skills in data han
 
 ### 🛠️ Skills & Tools
 - **Programming & Data:** Python | SQL | Excel | Power BI  
-- **Virtual Assistance Tools:** Google Workspace | Trello | Notion | Slack | Zoom | Canva  
+- **Administrative Assistance :** Microsoft 365  | Business communications 
+- **Business Analysis:** Requirements Gathering | Project Management | Business Analysis  
 - **Other:** Git | GitHub | Data Cleaning | Data Visualization | Remote Collaboration  
 
 ---
