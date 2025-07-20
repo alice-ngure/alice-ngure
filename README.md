@@ -12,7 +12,13 @@ I’m a self-driven and motivated individual  building strong skills in data han
 - **Other:** Git | GitHub | Data Cleaning | Data Visualization | Remote Collaboration  
 
 ---
+### 🎓 Certifications & Learning  
+- **Certificate in Data Science,Analytics and AI** *(LuxDevHQ ,Expected August 2025)*  
+- **Career Essentials in Administrative Assistance by Microsoft and LinkedIn** *(Completed - 2025)*  
+- **Career Essentials in Business Analysis by Microsoft and LinkedIn** *(Completed – 2025)*  
+  
 
+---
 
 ### 📫 How to Reach Me
 - LinkedIn: [linkedin.com/in/alicengure](https://www.linkedin.com/in/alice-muthoni-ab4264344/)  
